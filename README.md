@@ -18,3 +18,8 @@ By the end of this video, you will have a strong understanding of how to send an
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+## 👥 Contact
+
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
